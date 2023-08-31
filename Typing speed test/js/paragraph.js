@@ -1,0 +1,3 @@
+const paragraphs = [
+    "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolorum doloremque minima et facere veritatis laboriosam sunt placeat sed, consectetur corporis beatae suscipit. Cumque qui exercitationem iste cupiditate rem, debitis veniam nostrum delectus numquam amet, provident eligendi voluptatibus mollitia inventore officia magnam quae, eum corporis doloremque distinctio animi dolor saepe harum! Ratione totam earum repudiandae obcaecati sunt modi deleniti dolores ipsam delectus! Voluptatibus quas eveniet numquam! Expedita veritatis ab accusamus fugit facere voluptatem sequi laborum quisquam quaerat, suscipit illum sit ipsam.",
+]
